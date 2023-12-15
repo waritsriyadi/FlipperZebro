@@ -6,6 +6,9 @@ Developed a tool combining NFC, RFID, 433MHz RF, and IR Cloning Device designed 
 
 Say HI!~
 
+Instagram  :  instagram.com/ryd.warits
+Linkedin   :  linkedin.com/in/waritsriyadi/
+
 ⠀⠀⠀⠀⠈⠉⠒⠦⣄⣀⣀⡤⢾⢏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢯⠃⠀⠀⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠁⠀⠘⣟⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣞⣿⠀⠀⠀⣀⣀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣞⠁⠀⠀⠀⠀⠸⡽⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣯⣇⠶⣾⣭⢷⣶⢇⠀⣾⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
