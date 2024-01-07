@@ -1,3 +1,9 @@
+/* COPYRIGHT TO github.com/waritsryds
+   CODED BY MUSHYSUSSY (github.com/waritsryds)
+   feel free to use the code, and don't forget to have some look in my github/mention me ;)
+   THIS CODE FOR THE FIRST ESP32 TO ACTIVATE MAIN FUNCTION */
+
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <SPI.h>
